@@ -1,6 +1,6 @@
 # DATA LOVERS  💚💻  - página Web del Juego Legue of the Legends  🎮
 
-Link Proyecto: [Ir a la Página Web](https://andreasoncco.github.io/DEV009-data-lovers/)
+Link del Proyecto: [Ir a la Página Web](https://andreasoncco.github.io/DEV009-data-lovers/)
 
 ## Índice
 
@@ -20,19 +20,19 @@ A continuación se muestra la imagen final del sitio:
 
 **Bienvenida** 👩‍💻
 
-![captura de la Página de Bienvenida](src/destop1.png)
+![captura de la Página de Bienvenida](img/destop1.png)
 
 **Página Home**
 
-![captura de la Página Home](src/destop2.png)
+![captura de la Página Home](img/destop2.png)
 
 **Página Tips para Jugar**
 
-![captura de la Página Tips para Jugar](src/destop3.png)
+![captura de la Página Tips para Jugar](img/destop3.png)
 
 **Página Estadísticas**
 
-![gráfica de la Página Estadísticas](src/destop4.png)
+![gráfica de la Página Estadísticas](img/destop4.png)
 
 ## 2. PROCESO DE DISEÑO Y DESARROLLO
 
@@ -48,7 +48,7 @@ Teniendo en consideración la investigación realizada hicimos el prototipo de b
 
 **Captura del primer sprint en Trello**
 
-![captura del primer sprint en Trello](src/trello1.png)
+![captura del primer sprint en Trello](img/trello1.png)
 
 ### 2.2. Segundo Sprint
 
@@ -56,7 +56,7 @@ Durante el Segundo Sprint terminamos de hacer la Bienvenida, agregandole un bot�
 
 **Captura del segundo sprint en Trello**
 
-![captura del segundo sprint en Trello](src/trello2.png)
+![captura del segundo sprint en Trello](img/trello2.png)
 
 ### 2.3. Tercer Sprint
 
@@ -64,7 +64,7 @@ Luego del Sprint Review nos dimos cuenta que debiamos hacer el Responsive Design
 
 **Captura del tercer sprint en Trello**
 
-![captura del tercer sprint en Trello](src/trello3.png)
+![captura del tercer sprint en Trello](img/trello3.png)
 
 ### 2.4. Cuarto Sprint
 
@@ -72,7 +72,7 @@ Este fue el Sprint de mayor avance puesto que ya contabamos con ideas más clara
 
 **Captura del cuarto sprint en Trello**
 
-![captura del cuarto sprint en Trello](src/trello4.png)
+![captura del cuarto sprint en Trello](img/trello4.png)
 
 ### 2.5. Quinto Sprint
 
@@ -80,7 +80,7 @@ Comenzamos investigando sobre que función aplicar para hacer el calculo agregad
 
 **Captura del quinto sprint en Trello**
 
-![captura del cuarto quinto en Trello](src/trello5.png)
+![captura del cuarto quinto en Trello](img/trello5.png)
 
 ## 3. INVESTIGACIÓN UX
 
@@ -115,9 +115,9 @@ Se hizo un bosquejo con papel y lápiz para crear un diseño inicial de la pági
 
 **Foto del Prototipo Inicial de Home, Tips para jugar y Estadísticas**
 
-![foto de Prototipo de Baja Fidelidad Página Home](src/prototipobf1.png)
-![foto de Prototipo de Baja Fidelidad Página Tips para Jugar](src/prototipobf2.png)
-![foto de Prototipo de Baja Fidelidad Página Estadísticas](src/prototipobf3.png)
+![foto de Prototipo de Baja Fidelidad Página Home](img/prototipobf1.png)
+![foto de Prototipo de Baja Fidelidad Página Tips para Jugar](img/prototipobf2.png)
+![foto de Prototipo de Baja Fidelidad Página Estadísticas](img/prototipobf3.png)
 
 ### 4.2. Prototipo de Alta Fidelidad
 
@@ -127,10 +127,10 @@ Se hizo un bosquejo con papel y lápiz para crear un diseño inicial de la pági
 
 **Prototipo para tamaño Mobile**
 
-![foto de Prototipo de Alta Fidelidad Página Bienvenida](src/prototipoafi1.png)
-![foto de Prototipo de Alta Fidelidad Página Home](src/prototipoafi2.png)
-![foto de Prototipo de Alta Fidelidad Página Tips para Jugar](src/prototipoafi3.png)
-![foto de Prototipo de Alta Fidelidad Página Estadísticas](src/prototipoafi4.png)
+![foto de Prototipo de Alta Fidelidad Página Bienvenida](img/prototipoafi1.png)
+![foto de Prototipo de Alta Fidelidad Página Home](img/prototipoafi2.png)
+![foto de Prototipo de Alta Fidelidad Página Tips para Jugar](img/prototipoafi3.png)
+![foto de Prototipo de Alta Fidelidad Página Estadísticas](img/prototipoafi4.png)
 
 ### 4.3. Testeo de Usabilidad 💡
 
@@ -286,9 +286,9 @@ Según el testeo nos dimos cuenta que:
 ## 5. HERRAMIENTAS DE ELABORACIÓN
 👩‍🔧👩‍🎨
 
-- JAVASCRIPT para darle funcionalidad a la página
-- HTML producir la estructura de la interfaz
-- CSS para implementar el diseño
-- Librería Chart.js para implementar el gráfico de pie
-- FIGMA para planear el diseño
-- TRELLO para planificar el tiempo y dividir las tareas
+- Javascript: Para darle funcionalidad a la página
+- HTML: Para producir la estructura de la interfaz
+- CSS: Para implementar el diseño
+- Librería Chart.js: Para implementar el gráfico de pie
+- Figma: Para planear el diseño
+- Trello: Para planificar el tiempo y dividir las tareas
