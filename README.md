@@ -14,7 +14,7 @@ Link del Proyecto: [Ir a la Página Web](https://andreasoncco.github.io/DEV009-d
 
 ## 1. DEFINICIÓN DEL PROYECTO
 
-Nuestra página web es sobre el popular juego en línea Legue of Legends, destinado a los nuevos jugadores o personas interesadas en obtener información resumida del juego para formar sus equipos y conocer que personajes les conviene elegir según el perfil de cada quien. En el sitio web podrás encontrarte con tres segmentos principales: la página Home, la página Tips para Jugar y la página Estadísticas. Asimismo, el sitio web es Responsive Design ya que se ajusta a distintos tamaños puendo acceder desde mobile, tablet o desktop.
+Nuestra página web es sobre el popular juego en línea Legue of Legends, destinado a los nuevos jugadores o personas interesadas en obtener información resumida del juego para formar sus equipos y conocer que personajes les conviene elegir según el perfil de cada quien. En el sitio web podrás encontrarte con tres segmentos principales: la página Home, la página Tips para Jugar y la página Estadísticas. Asimismo, el sitio web es Responsive Design ya que se ajusta a distintos tamaños, pudiendo acceder desde mobile, tablet o desktop.
 
 A continuación se muestra la imagen final del sitio:
 
